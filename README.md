@@ -1,25 +1,15 @@
-<p align="center">
-  <img
-      src="http://www.seraphid.io/assets/img/logo-dark.png"
-      width="450px"
-      alt="Seraph ID Logo">
-</p>
-
 <h1 align="center">
-  **Seraph ID Integration Sample**
+  Seraph ID Integration Sample
 </h1>
 
-<p align="center">
   **A Comprehensive Demonstration of Seraph ID Integration and Usage**
-</p>
-
 <p align="center">      
   <a href="https://github.com/epicchainlabs/seraph-id-integration-sample/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="MIT License">
   </a>
 </p>
 
-# Overview
+## Overview
 
 Welcome to the **Seraph ID Integration Sample** repository! This project serves as a thorough example implementation of Seraph ID, a cutting-edge self-sovereign identity solution on the EpicChain blockchain platform. This demo is designed to illustrate the integration and practical application of Seraph ID features, including wallet management, claims issuance, verification, and more.
 
