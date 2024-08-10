@@ -168,9 +168,6 @@ For additional information and resources related to Seraph ID, please refer to t
 
 - **[Seraph ID Official Page](http://www.seraphid.io):** Visit the official site to learn more about Seraph ID, its features, and its impact on self-sovereign identity.
 - **[Seraph ID SDK on GitHub](https://github.com/epicchainlabs/seraph-id-integration-sample):** Access the JavaScript SDK repository for tools and libraries related to Seraph ID integration.
-- **[Seraph ID Smart Contract Templates on GitHub](https://github.com/swisscom-blockchain/seraph-id-smart-contracts):** Review smart contract templates and examples for implementing Seraph ID solutions on the EpicChain blockchain.
-- **[Seraph ID Chrome Extension on GitHub](https://github.com/swisscom-blockchain/seraph-id-chrome-extension):** Download and explore the Seraph ID extension for Chrome, which enhances the user experience with additional features.
-- **[Seraph ID DID Resolver on GitHub](https://github.com/swisscom-blockchain/seraph-id-did-driver):** Integrate with the Seraph ID DID resolver for managing decentralized identifiers (DIDs) effectively.
 
 # License Information
 
